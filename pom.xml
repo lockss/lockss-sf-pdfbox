@@ -49,11 +49,40 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <name>org.lockss:pdfbox</name>
   <description>LOCKSS version of PDFBox</description>
 
+  <url>https://sourceforge.net/projects/pdfbox/</url>
+  <organization />
+  <licenses />
+  <developers>
+    <developer>
+      <id>benlitchfield</id>
+      <name>Ben Litchfield</name>
+    </developer>
+  </developers>
+  <contributors>
+    <contributor>
+      <name>Thib Guicherd-Callin</name>
+      <email>thib@cs.stanford.edu</email>
+      <organization>LOCKSS Program</organization>
+      <organizationUrl>https://www.lockss.org/</organizationUrl>
+      <properties>
+        <id>thibgc</id>
+      </properties>
+    </contributor>
+  </contributors>
+
   <properties>
     <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
     <project.reporting.outputEncoding>ISO-8859-1</project.reporting.outputEncoding>
+    <gitProjectId>lockss-sf-pdfbox</gitProjectId>
   </properties>
 
+  <!-- Must be in every lockss-parent-pom/lockss-spring-parent-pom descendant -->
+  <scm>
+    <connection>${scmConnection}</connection>
+    <developerConnection>${scmDeveloperConnection}</developerConnection>
+    <url>${scmUrl}</url>
+  </scm>
+  
   <dependencies>
   
     <dependency>
@@ -112,26 +141,17 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
   </dependencies>
 
-<!--   <build> -->
-<!--     <sourceDirectory>src</sourceDirectory> -->
-<!--     <resources> -->
-<!--       <resource> -->
-<!--         <directory>src</directory> -->
-<!--         <excludes> -->
-<!--           <exclude>**/*.java</exclude> -->
-<!--         </excludes> -->
-<!--       </resource> -->
-<!--     </resources> -->
-<!--     <plugins> -->
-<!--       <plugin> -->
-<!--         <artifactId>maven-compiler-plugin</artifactId> -->
-<!--         <version>3.7.0</version> -->
-<!--         <configuration> -->
-<!--           <source>1.8</source> -->
-<!--           <target>1.8</target> -->
-<!--         </configuration> -->
-<!--       </plugin> -->
-<!--     </plugins> -->
-<!--   </build> -->
+  <build>
   
+    <testResources>
+      <testResource>
+        <directory>${project.basedir}/src/test/java</directory>
+      </testResource>
+      <testResource>
+        <directory>${project.basedir}/src/test/resources</directory>
+      </testResource>
+    </testResources>
+  
+  </build>
+
 </project>

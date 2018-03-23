@@ -101,7 +101,7 @@ public class TestFilters extends TestCase
                   filter instanceof CCITTFaxDecodeFilter ||
                   filter instanceof RunLengthDecodeFilter))
             {
-                checkFilter( new File( "classes" ), filter );
+                checkFilter( new File( "target/test-classes" ), filter ); // modified by Thib
                 long stop = System.currentTimeMillis();
                 System.out.println( "Time for filter " + filter.getClass().getName() + "=" + (stop-start) );
             }
