@@ -1,0 +1,682 @@
+ 
+ 
+ 
+ 
+ 
+ 
+S 296001 Seite 1 von 12 Ausgabe: M�rz 2004 
+ 
+Qualit�tssicherungsvereinbarung mit Lieferanten 
+ 
+ 
+zwischen 
+ 
+ 
+      
+ 
+ 
+- nachfolgend Lieferant genannt - 
+ 
+ 
+ 
+- und - 
+ 
+ 
+INA-Schaeffler KG 
+ hier zugleich handelnd f�r alle Gesellschaften an denen sie selbst oder ihre Gesellschafter allein oder 
+gemeinsam, direkt oder indirekt mehrheitlich beteiligt ist 
+ 
+ 
+- nachfolgend Kunde genannt - 
+ 
+ 
+ 
+�ber die Durchf�hrung eines Qualit�tsmanagements mit dem Ziel,  
+die Qualit�t der Produktentwicklung und der Produkte zu sichern. 
+ 
+ 
+ 
+Pr�ambel: 
+ 
+Unsere Wettbewerbsf�higkeit und Position auf dem Weltmarkt wird durch die Qualit�t unserer 
+Produkte entscheidend bestimmt. Die einwandfreie Beschaffenheit und Zuverl�ssigkeit der 
+zugekauften Produkte (Rohstoffe, Komponenten, Hilfs- und Betriebsstoffe, Werkzeuge) haben 
+unmittelbaren Einfluss auf die Qualit�t unserer Erzeugnisse.  
+Qualit�t erfordert ein zeitgem��es und wirksames Qualit�tsmanagementsystem auch beim 
+Lieferanten.  
+Diese Qualit�tssicherungsvereinbarung ist die vertragliche Festlegung der technischen und 
+organisatorischen Rahmenbedingungen zwischen Kunde und Lieferant, die zur Erreichung des 
+angestrebten Qualit�tszieles erforderlich sind. Sie beschreibt die Mindestanforderung an das 
+Managementsystem der Vertragspartner im Hinblick auf die Qualit�tssicherung.  
+Der Abschluss dieser Qualit�tssicherungsvereinbarung stellt einen unverzichtbaren Schritt auf dem 
+Wege zu einem strategischen Lieferanten dar.  
+ 
+ 
+Qualit�tssicherungsvereinbarung mit Lieferanten 
+ 
+ 
+ 
+ 
+ 
+S 296001 Seite 2 von 12 Ausgabe: M�rz 2004 
+ 
+ 
+1 Verantwortung des Lieferanten f�r die Qualit�t seiner Produkte und Dienstleistungen 3 
+2 QM-Systemanforderungen 3 
+2.1 Allgemeines........................................................................................................................................3 
+2.2 QM-Systemanforderungen des Kunden...............................................................................................3 
+2.3 Nachweis des QM-Systems ................................................................................................................5 
+2.4 �berpr�fung des QM-Systems, der Prozess- bzw. Produktqualit�t durch den Kunden.........................5 
+3 Grunds�tzliche Voraussetzungen und Ma�nahmen 5 
+3.1 Technische Anforderungen .................................................................................................................5 
+3.2 Projektplanung....................................................................................................................................5 
+3.3 Beurteilung der Herstellbarkeit eines Produktes ..................................................................................6 
+3.4 Analyse der Fehlerm�glichkeiten.........................................................................................................6 
+3.5 Kontrollplanung...................................................................................................................................6 
+3.6 Serienteil-Freigabeverfahren...............................................................................................................6 
+3.7 F�higkeitsuntersuchungen vor Serienbeginn .......................................................................................6 
+3.8 Funktions-, Zuverl�ssigkeits- und Lebensdauerpr�fungen ...................................................................7 
+3.9 Prozessregelung und Serienpr�fung ...................................................................................................7 
+3.9.1 Systematische Anwendung statistischer Methoden/Verfahren zur Prozessregelung 7 
+3.9.2 Stichprobenumfang und Pr�ffrequenz 7 
+3.10 Ma�nahmen des Lieferanten beim Auftreten von Fehlern....................................................................7 
+3.10.1 Sonderfreigabe 8 
+3.10.2 Nachbesserung von Losen 8 
+3.10.3 Ma�nahmen des Lieferanten bei Entdeckung von Fehlern nach Lieferung 8 
+3.11 Erforderliches Endproduktaudit in Verantwortung des Lieferanten .......................................................8 
+3.12 Kennzeichnung der Lieferungen..........................................................................................................8 
+3.12.1 Einsatz eines neuen Spezifikationsstatus 8 
+3.12.2 Angabe der Chargennummer auf den Lieferscheinen 9 
+3.13 Verpackung ........................................................................................................................................9 
+3.14 Schulung der Mitarbeiter .....................................................................................................................9 
+3.15 Archivierung von Qualit�tsaufzeichnungen..........................................................................................9 
+3.16 Pr�fmittel ............................................................................................................................................9 
+3.17 Umwelt, Sicherheit, Recycling.............................................................................................................9 
+3.18 �berpr�fung der angelieferten Vertragsprodukte...............................................................................10 
+3.19 Reklamationsanalyse........................................................................................................................10 
+3.20 Liefertreue ........................................................................................................................................10 
+3.21 Anzeigen von �nderungen ................................................................................................................10 
+4 Sonstige Vereinbarungen 11 
+5 Literatur und Referenzen 11 
+6 Mitgeltende Teile der Qualit�tssicherungsvereinbarung 11 
+7 Verbindlichkeitserkl�rung 12 
+ 
+ 
+Qualit�tssicherungsvereinbarung mit Lieferanten 
+ 
+ 
+ 
+ 
+ 
+S 296001 Seite 3 von 12 Ausgabe: M�rz 2004 
+ 
+1 Verantwortung des Lieferanten f�r die Qualit�t seiner Produkte und 
+Dienstleistungen 
+ 
+Der Lieferant ist verantwortlich f�r die fehlerfreie Ausf�hrung seiner Produkte entsprechend den 
+vereinbarten technischen Unterlagen gem�� Punkt 3.1. Er hat die Vollst�ndigkeit und Korrektheit der 
+Unterlagen zu �berpr�fen und, soweit erforderlich, weitere Informationen vom Kunden anzufordern. 
+Bei Entwicklungst�tigkeiten muss sich der Lieferant beim Kunden �ber die Anforderungen an das 
+Produkt und �ber die Einbauumgebung informieren. Die Qualit�tsstrategie des Lieferanten muss auf 
+st�ndige Verbesserung seiner Produkte, Dienstleistungen und Prozesse ausgerichtet sein. Die Ziele 
+sind "Null Fehler" und 100% Liefertreue sowie die Senkung von Kosten. 
+Vergibt der Lieferant Auftr�ge an Unterlieferanten, so steht der Lieferant auch f�r die Qualit�t der 
+Zukaufprodukte in voller Verantwortung und muss hierf�r die Anforderungen dieser 
+Qualit�tssicherungsvereinbarung auch in Richtung seiner Unterlieferanten umsetzen. 
+Diese QSV entbindet den Lieferanten nicht von seiner uneingeschr�nkten Produktverantwortung und 
+den daraus m�glicherweise erwachsenden Problemen. 
+ 
+2 QM-Systemanforderungen 
+2.1 Allgemeines 
+F�r die Erf�llung seiner Verantwortung hat der Lieferant seiner Struktur und Betriebsgr��e 
+entsprechend ein wirksames Qualit�tsmanagementsystem nach ISO 9001 in der aktuellen Fassung 
+aufzubauen und einzusetzen. Diese internationale Norm ist die Grundlage f�r die Anforderungen an 
+das QM-System und wird erg�nzt durch branchen- und kundenspezifische Normen (siehe 
+nachfolgende Tabelle). 
+2.2 QM-Systemanforderungen des Kunden 
+Mit den QM-Systemanforderungen lehnt sich der Kunde an die nachfolgend genannten Normen an. 
+Die Anforderungen richten sich nach der Einstufung der Lieferanten je nach Produktrisiko. Die 
+Lieferanten werden standardm��ig durch den Kunden  in folgende Lieferantenklassen eingestuft: 
+ 
+• Lieferant mit Produktentwicklung  
+• Lieferant mit Prozessentwicklung 
+• Lieferant f�r Katalog- und Normteile 
+• Lohnarbeiter 
+• Lieferant f�r Werkstoffe  
+• Lieferant f�r Verpackungen 
+• Lieferant f�r Werkzeuge 
+• Lieferant f�r Hilfsstoffe 
+ 
+Die differenzierten QM-Systemanforderungen sind der nachfolgenden Tabelle zu entnehmen. Werden 
+von unserem Kunden weitere Anforderungen gestellt, so sind diese nach Vereinbarung gem�� Pkt. 4 
+zus�tzlich zu erf�llen (z.B. QS 9000 der AIAG, AS 9100 der Luft- und Raumfahrt, I.A.Q.G. 
+International Aerospace Quality Group, VDA 6.1 des Verbandes der Deutschen Automobilhersteller 
+und M1003 der Eisenbahn). 
+ 
+Qualit�tssicherungsvereinbarung mit Lieferanten 
+ 
+ 
+ 
+ 
+ 
+S 296001 Seite 4 von 12 Ausgabe: M�rz 2004 
+ 
+ Lieferantenklassenspezifische Anforderungen an das QM-System 
+ 
+ 
+Lieferantenklasse 
+(Auswahlliste)  
+ 
+ 
+ 
+ 
+ 
+ 
+ Anforderungspunkte 
+ Lieferant mit eigen
+- 
+verantw. P
+roduktentw.
+ 
+(Produkte nach St�ckliste, inkl. chem. Betriebsstoffe, die im/am Produkt verbleiben)
+ 
+Lieferant mit Prozessentwicklung
+ 
+(Konstruktion beim Kunden)
+ 
+Lieferant f�r Katalog
+- 
+und Normteile
+ (keine 
+Entwicklung f�r den Kunden)
+ 
+Lohnarbeiter
+ 
+(Verl�ngerte W
+erkbank)
+ 
+Lieferant f�r Werkstoffe
+ 
+(Rohmaterial, Halbzeuge)
+ 
+Lieferant f�r Verpackungen
+ 
+Lieferant f�r Werkzeuge
+ 
+Lieferant f�r Hilfsstoffe (Hilfsstoffe verbleiben nicht im/am Produkt z.B. K�hlschmierstoff, Strahlmittel usw.)
+ 
+Zertifizierte Normanforderung  
+ISO 9001:20002)  X X X X X X X X 
+ISO/TS 16949 3) X X       
+AS 9100 4) X X       
+ISO 14001 oder EMAS 5) X X X X X X2) X X 
+Kundenanforderungen    
+Pkt. 3.1 Techn. Anforderungen X X X1) X X X X X 
+Pkt. 3.2 Projektplanung 6) X X X X X  X X 
+Pkt. 3.3 Herstellbarkeitsanalyse X X  X7)     
+Pkt. 3.4 Fehlerm�glichkeitsanalyse X X  X7) X    
+Pkt. 3.5 Kontrollplanung X X X X X  X  
+Pkt. 3.6 Serienteil-Freigabeverfahren X X X7) X7) X7) X7) X7)  
+Pkt. 3.7 F�higkeitsuntersuchungen X X  X7) X7)   X7) 
+Pkt. 3.8 Funktion/Zuverl.-Test X X    X7)   
+Pkt. 3.9 Prozessregelung X X X X X X X X 
+Pkt. 3.10 Ma�nahmen bei Fehlern X X X X X X X X 
+Pkt. 3.11 Endproduktaudit X X X X X X X X 
+Pkt. 3.12 Kennz. der Lieferung X X X X X X X X 
+Pkt. 3.13 Verpackung X X X X X X X X 
+Pkt. 3.14 Schulung der Mitarbeiter X X X X X X X X 
+Pkt. 3.15 Archivierung X X X X X X X X 
+Pkt. 3.16 Pr�fmittel X X X X X X X X 
+Pkt. 3.17 Umwelt, Sicherheit X X X X X X X X 
+Pkt. 3.18 Wareneingangspr�fung X X X X X X X X 
+Pkt. 3.19 Reklamationsanalyse X X X X X X X X 
+Pkt. 3.20 Liefertreue X X X X X X X X 
+Pkt. 3.21 Anzeige von �nderungen X X X X X X X X 
+ 
+1)  Technische Unterlagen werden vom Lieferanten eigenverantwortlich erstellt. 
+2) Mindestanforderung an das QM-System des Lieferanten. In Ausnahmef�llen kann der Lieferant mit einer 
+Sondergenehmigung freigegeben werden. 
+3) Ziel f�r alle Entwicklungslieferanten ist eine Zertifizierung nach ISO/TS 16949. �bergangsweise wird die Zertifizierung 
+nach QS9000, VDA6.1, AVSQ 94, EAQF 94 anerkannt. In Ausnahmef�llen kann der Lieferant mit einer ISO 
+9001:2000-Zertifizierung freigegeben werden. Ein entsprechender Entwicklungsplan ist nachzuweisen.  
+4) Gefordert f�r Luft- und Raumfahrtanwendungen. 
+5) Gefordert f�r umweltbelastende Branchen und Herstellprozesse, z.B. Galvanik, Entsorgung, Chemikalien f�r 
+Produktion sowie �le, Fette und Konservierungen f�r die Produkte. 
+6) Projektplanung nach Teil 1. 
+7) Verfahren wird zwischen Kunde und Lieferant gesondert vereinbart. 
+ 
+Qualit�tssicherungsvereinbarung mit Lieferanten 
+ 
+ 
+ 
+ 
+ 
+S 296001 Seite 5 von 12 Ausgabe: M�rz 2004 
+ 
+ 
+2.3 Nachweis des QM-Systems 
+Als Nachweis, dass ein diesen Anforderungen entsprechendes QM-System eingef�hrt ist und im 
+Unternehmen des Lieferanten angewendet wird, akzeptiert der Kunde das Ergebnis eines 
+Zertifizierungsaudits durch eine akkreditierte Zertifizierungsgesellschaft. 
+Der Lieferant legt dem Einkauf des Kunden eigenverantwortlich die entsprechenden Zertifikate vor 
+und meldet Aktualisierungen jeweils unmittelbar nach Ablauf des G�ltigkeitszeitraums oder bei 
+Entzug des Zertifikats. Vers�umnisse  f�hren zur Abstufung in der Lieferantenbewertung. 
+2.4 �berpr�fung des QM-Systems, der Prozess- bzw. Produktqualit�t durch den Kunden 
+Der Kunde hat das Recht, durch ein Audit festzustellen, ob die Qualit�tssicherungsma�nahmen des 
+Lieferanten die Einhaltung der Kundenanforderungen gew�hrleisten. Das Audit kann als System-, 
+Prozess- oder Produktaudit durchgef�hrt werden und ist rechtzeitig vor geplanter Durchf�hrung zu 
+vereinbaren. Der Lieferant wird dem Kunden Zugang zu den betroffenen Bereichen gew�hren und 
+Einblick in die Unterlagen im  erforderlichen Umfang gestatten, soweit sie den Lieferumfang betreffen. 
+Angemessene Einschr�nkungen des Lieferanten zur Sicherung seiner Betriebsgeheimnisse werden 
+einvernehmlich akzeptiert. Der Lieferant tr�gt die bei ihm aufgrund eines Audits anfallenden Kosten 
+selbst.  
+Dar�ber hinaus ist der Kunde berechtigt, w�hrend einer laufenden Gesch�ftsbeziehung die 
+Qualit�tssicherungsma�nahmen des Lieferanten auch mit einem Beauftragten des Endkunden nach 
+vorheriger Terminabstimmung zu �berpr�fen. 
+Treten Qualit�tsprobleme auf, die durch Leistungen und/oder Lieferungen von Unterlieferanten 
+verursacht werden, ist der Lieferant verpflichtet, ein Audit beim betroffenen Unterlieferanten, wenn 
+notwendig, auch mit einem Beauftragten des Kunden bzw. des Endkunden, zu erm�glichen. Die 
+vorstehenden Bestimmungen gelten entsprechend. Je nach Situation werden dem Lieferanten beim 
+Kunden anfallende Kosten in Rechnung gestellt. 
+3 Grunds�tzliche Voraussetzungen und Ma�nahmen 
+ 
+Um Fehlerquellen m�glichst im Vorstadium zu erkennen, sind vor Serienbeginn gezielte vorbeugende 
+Ma�nahmen einzuleiten. Das Entstehen von Fehlern in der Fertigung muss ebenfalls rechtzeitig 
+erkannt werden, um sofortige Ma�nahmen zu deren Vermeidung durchf�hren zu k�nnen. Aus diesem 
+Grund hat der Lieferant vor Serienbeginn Aktivit�ten entsprechend ihrer Priorit�t zu forcieren. 
+3.1 Technische Anforderungen 
+Die einzuhaltenden Qualit�tsmerkmale sind in den technischen Unterlagen, z.B. Zeichnungen, 
+Spezifikationen, Produktlieferrichtlinien, Lieferbedingungen, mitgeltenden Anweisungen zur 
+Bestellung, Verfahrensrichtlinien, Lasten- und Pflichtenheften festgelegt. Der Lieferant erh�lt vom 
+Kunden immer die neuesten technischen Unterlagen in Druck- oder Datenform. Er muss 
+sicherstellen, dass nach diesen, ihm vorliegenden und vereinbarten Unterlagen gefertigt und gepr�ft 
+wird. Diese  gelten als vereinbart, wenn der Lieferant nicht innerhalb von vier Wochen ab Zustellung 
+schriftlich widerspricht. 
+3.2 Projektplanung 
+Um ein Produkt, das den Qualit�tsanforderungen des Kunden entspricht, zu entwickeln und zu 
+fertigen sowie einen problemlosen Serienanlauf sicherzustellen, bedarf es eines straff organisierten, 
+fr�hzeitigen Zusammenspiels aller Unternehmensbereiche. Gleichzeitig sind dabei die vereinbarten 
+Termin- und Kostenziele einzuhalten. Ein konsequentes Projektmanagement gew�hrleistet einen 
+zielorientierten Projektablauf. 
+ 
+Qualit�tssicherungsvereinbarung mit Lieferanten 
+ 
+ 
+ 
+ 
+ 
+S 296001 Seite 6 von 12 Ausgabe: M�rz 2004 
+ 
+3.3 Beurteilung der Herstellbarkeit eines Produktes 
+Vor der Auftragsbest�tigung hat der Lieferant zu pr�fen, ob eine gesicherte Fertigung unter 
+Ber�cksichtigung der eigenen Produktionseinrichtungen m�glich ist. Gegebenenfalls m�ssen �ber 
+den Einkauf des Kunden, in Abstimmung mit der Konstruktion bzw. den verantwortlichen technischen 
+Abteilungen, sichernde Vereinbarungen getroffen werden. Die Herstellbarkeit ist je nach 
+Produktklasse in dem vom Kunden vorgegebenen Formblatt zu bescheinigen. 
+3.4 Analyse der Fehlerm�glichkeiten 
+Um zu verhindern, dass bei der Serienproduktion Qualit�tseinbr�che auftreten und um den 
+erforderlichen Pr�faufwand auf ein Minimum zu beschr�nken, ist es erforderlich, eine Analyse 
+potentieller Fehler und ihrer Folgen (FMEA = Fehlerm�glichkeits- und Einflussanalyse) 
+durchzuf�hren. Bei Ver�nderung am Produkt und im Prozess bzw. bei aufgetretenen Reklamationen 
+ist das Dokument laufend zu aktualisieren. 
+F�r Produkte, f�r die der Lieferant die Konstruktionsverantwortung hat, ist eine System-FMEA 
+Produkt / Design-FMEA erforderlich. 
+F�r alle Prozesse von Produkten bzw. Produktfamilien ist vom Lieferanten  bereits vor Beginn der 
+Herstellung von Werkzeugen und Einrichtungen eine System-FMEA Prozess / Prozess-FMEA 
+durchzuf�hren. Dabei sind s�mtliche Faktoren, die den Fertigungsprozess beeinflussen, zu 
+ber�cksichtigen und zu bewerten. 
+Entsprechende Vorkehrungen zur Prozessabsicherung m�ssen bei festgestellten Schwachstellen 
+durchgef�hrt werden. Auf Anforderung muss dem Kunden nach Terminabsprache jederzeit Einblick in 
+die FMEA gew�hrt werden.  
+3.5 Kontrollplanung 
+Der Lieferant f�hrt die Kontrollplanung f�r alle neuen Serienprodukte schriftlich durch. Das Dokument 
+muss Auskunft �ber Prozessparameter, Pr�fablauf, -merkmale, -mittel und  
+-h�ufigkeit sowie �ber Reaktions- bzw. Ma�nahmenpl�ne bei Qualit�tsabweichungen geben und ist 
+auf Anforderung rechtzeitig mit der Qualit�tssicherung des Kunden abzustimmen.  
+3.6 Serienteil-Freigabeverfahren  
+Durch das Serienteil-Freigabeverfahren erbringt der Lieferant den Nachweis, dass die Freigabe des 
+Produktes und der zur Herstellung verwendeten Herstellprozesse erfolgreich abgeschlossen wurde. 
+Dies ist in den verschiedenen Phasen der Herstellung erforderlich. Das vom Kunden bevorzugte 
+Verfahren ist in Teil 2 beschrieben (angelehnt an PPAP nach QS 9000).  Andere Verfahren wie PPF 
+nach VDA sind ebenfalls nach vorheriger Vereinbarung mit dem Kunden zul�ssig. Die Musterfreigabe 
+schlie�t sp�tere Gew�hrleistungsanspr�che nicht aus. 
+3.7 F�higkeitsuntersuchungen vor Serienbeginn 
+Eine gleichbleibende Qualit�tsleistung kann nur durch einen statistisch f�higen und in sich selbst 
+langfristig best�ndigen Prozess erreicht werden. Nicht f�hige Prozesse f�hren zu vermeidbaren 
+Fehlerkosten. Deshalb m�ssen vor Serienbeginn von allen funktionswichtigen und 
+dokumentationspflichtigen Merkmalen F�higkeitsuntersuchungen durchgef�hrt sowie w�hrend der 
+laufenden Serie kontinuierlich gem�� Punkt 3.9 �berwacht werden. Diese Merkmale m�ssen den 
+Anforderungen der technischen Vorschriften statistisch gesichert entsprechen. Zur Durchf�hrung 
+siehe einschl�giges Schrifttum (z.B. DGQ, VDA bzw. QS 9000). 
+Ein f�higer Prozess liegt vor, wenn eine Kurzzeituntersuchung einen F�higkeitsfaktor Ppk bzw. Cmk 
+> 1,67 oder eine Langzeituntersuchung einen Faktor Cpk > 1,33 ergibt. Wenn die vorgenannten 
+Werte nicht erreicht werden, muss der Lieferant umgehend geeignete Ma�nahmen einleiten. Die 
+erreichte Prozessf�higkeit muss nachgewiesen werden. Bis dahin ist eine 100%-Pr�fung 
+durchzuf�hren. 
+ 
+Qualit�tssicherungsvereinbarung mit Lieferanten 
+ 
+ 
+ 
+ 
+ 
+S 296001 Seite 7 von 12 Ausgabe: M�rz 2004 
+ 
+3.8 Funktions-, Zuverl�ssigkeits- und Lebensdauerpr�fungen 
+Sind in den Zeichnungen und Vorschriften Angaben �ber das Langzeitverhalten der Produkte 
+gemacht, so muss diese Pr�fung in Verantwortung des Lieferanten durchgef�hrt werden. Art und 
+Umfang dieser Pr�fungen sind einvernehmlich festzulegen. Nur bei schriftlicher Genehmigung der 
+Qualit�tssicherung des Kunden kann diese Pr�fung f�r den Lieferanten entfallen.  
+3.9 Prozessregelung und Serienpr�fung 
+F�r die Serien�berwachung muss der Lieferant geeignete Lenkungsma�nahmen verwenden. F�r 
+vereinbarte, besondere Merkmale ist die statistische Prozessregelung verbindlich. Die 
+Aufzeichnungen m�ssen in der Weise erfolgen, dass Ver�nderungen rechtzeitig erkannt und 
+entsprechende Korrekturen am Prozess zur Fehlervermeidung eingeleitet werden k�nnen. Bei 
+Merkmalen, die nicht der statistischen Prozessregelung unterliegen, muss der Lieferant regelm��ig 
+Stichproben entnehmen. F�r die Annahme eines Loses darf kein fehlerhaftes Produkt in der 
+Stichprobe gefunden werden („Null-Fehler“-Prinzip). Aus den Aufzeichnungen m�ssen Qualit�ts-
+geschichte und qualit�tsregelnde Ma�nahmen klar und eindeutig erkennbar sein. 
+Wenn Produkte in einem nicht f�higen Prozess hergestellt werden (Cpk < 1,33), so ist anschlie�end 
+eine 100%-Pr�fung durchzuf�hren, deren Qualifikation nachgewiesen sein muss. Diese 100%-
+Pr�fung muss so lange durchgef�hrt werden, bis der Herstellprozess optimiert und ein 
+F�higkeitsindex Cpk > 1,33 erreicht ist. 
+Unter wirtschaftlichen Gesichtspunkten erwartet der Kunde eine laufende Prozessverbesserung mit 
+dem Ziel einer stetigen Streuungsminimierung.  
+Diese Pr�funterlagen m�ssen vom Kunden-Beauftragten des Qualit�tsbereiches eingesehen werden 
+k�nnen bzw. es m�ssen dem Kunden auf Anfrage F�higkeitskennwerte genannt werden. 
+ 
+Abnahmepr�fzeugnisse 3.1 nach DIN EN 10204 bzw. DIN 55350-18 sind beim Lieferanten 
+aufzubewahren und dem Kunden auf Verlangen innerhalb von 24 Stunden zur Verf�gung zu stellen. 
+ 
+3.9.1 Systematische Anwendung statistischer Methoden/Verfahren zur Prozessregelung 
+Serienprozesse sind durch den Einsatz von statistischen Methoden wie Qualit�tsregelkarten 
+− //~,/( sxoderRxRx Karten oder Fehlersammelkarten) zu �berwachen. Dabei m�ssen auch 
+Prozessparameter, welche z.B. bei W�rmebehandlung, Schwei�en oder Kunststoffspritzen die 
+Realisierung der Merkmale negativ beeinflussen k�nnen, eingeschlossen sein und entsprechend 
+dokumentiert werden. Die Prozesse m�ssen unter statistischer Kontrolle laufen. 
+3.9.2 Stichprobenumfang und Pr�ffrequenz 
+Die Festlegung der Pr�fmerkmale, die in der Serienproduktion mit einer sinnvollen Pr�ffrequenz 
+gepr�ft werden m�ssen, ist von der Beherrschbarkeit des Fertigungsprozesses abh�ngig. Die 
+Festlegung der Pr�ffrequenz und des Stichprobenumfangs setzt Kenntnisse der statistischen 
+Methoden voraus. 
+3.10 Ma�nahmen des Lieferanten beim Auftreten von Fehlern 
+Wird bei der Serien�berwachung festgestellt, dass fehlerhafte Produkte in der Stichprobe vorhanden 
+sind, so muss der Fertigungsprozess sofort unterbrochen und berichtigt werden. Die seit der letzten 
+i.O.-Pr�fung gefertigten Produkte sind 100% zu pr�fen. Wird bei der Eingrenzung der Fehlermenge 
+festgestellt, dass bereits fehlerhafte Produkte zur Auslieferung gelangt sein k�nnten, so ist sofort die 
+zust�ndige Stelle des Qualit�tsbereiches im jeweiligen Abnahmewerk des Kunden zu verst�ndigen. 
+Der Kunde erwartet, dass gleichzeitig die eingeleiteten Ma�nahmen in Form eines 8D-Reports oder 
+einer gleichwertigen Alternative (siehe Punkt 3.19, bzw. Teil 4 Reklamationsbearbeitung) zur 
+Fehlerbeseitigung mitgeteilt werden. 
+ 
+Qualit�tssicherungsvereinbarung mit Lieferanten 
+ 
+ 
+ 
+ 
+ 
+S 296001 Seite 8 von 12 Ausgabe: M�rz 2004 
+ 
+3.10.1 Sonderfreigabe 
+Bei Abweichungen von der Spezifikation muss eine Abweichgenehmigung / Sonderfreigabe beantragt 
+werden. Hierzu kann das kundenspezifische Antragsformular verwenden werden (siehe Teil 3). 
+Produkte mit genehmigter Abweichung sind separat zu liefern. Dabei m�ssen Lieferschein und 
+Verpackungseinheiten einen entsprechenden Hinweis auf die Art der Abweichung enthalten. Eine 
+Kopie der Abweicherlaubnis ist den Lieferpapieren beizulegen. Die G�ltigkeitsdauer der 
+Abweicherlaubnis ist entweder bez�glich Menge und/oder Termin limitiert. 
+3.10.2 Nachbesserung von Losen 
+Der Lieferant muss sich von der ordnungsgem��en Durchf�hrung der Nachbesserung �berzeugen 
+und sicherstellen, dass sich die durchgef�hrte Nachbesserung nicht nachteilig auf die 
+Vertragsprodukte auswirken. 
+3.10.3 Ma�nahmen des Lieferanten bei Entdeckung von Fehlern nach Lieferung 
+Werden fehlerhafte Produkte erst nach Anlieferung an den Kunden entdeckt, hat der Lieferant 
+unmittelbar nach Information �ber die Fehler seine Fertigung zu unterbrechen, den Umlaufbestand  
+(intern und unterwegs zum Kunden befindliche Ware) oder Best�nde beim Kunden zu �berpr�fen, zu 
+sortieren oder nachzuarbeiten. Wirksame Abstellma�nahmen sind durchzuf�hren. Ausschussteile 
+sind unverz�glich zu verschrotten. 
+Alle bereits gelieferten Produkte werden nach Absprache auf Kosten des Lieferanten zur�ckgesandt. 
+Der Lieferant muss umgehend unentgeltlich brauchbaren Ersatz (evtl. nach Aussortierung der 
+fehlerhaften Produkte) liefern, damit sowohl die Produktion des Kunden als auch des Endkunden 
+keine Unterbrechung oder St�rung erf�hrt. Falls Mehraufw�nde anfallen, werden diese dem 
+Lieferanten in Rechnung gestellt. 
+3.11 Erforderliches Endproduktaudit in Verantwortung des Lieferanten 
+Um gezielt die Wirksamkeit der Qualit�tssicherung zu �berwachen, zu bewerten und gegebenenfalls 
+zu verbessern, ist es notwendig, dass der Lieferant periodisch an versandfertigen Produkten Audits 
+auf �bereinstimmung mit den technischen Unterlagen, Zeichnungen, Spezifikationen, Normen, 
+gesetzlichen Vorschriften und weiteren vorgegebenen Qualit�tsmerkmalen durchf�hrt und 
+dokumentiert. Die Anzahl solcher �berpr�fungen pro Jahr wird vom Lieferanten festgelegt und richtet 
+sich nach den vorhandenen Arbeitsverfahren und Systemen. 
+3.12 Kennzeichnung der Lieferungen 
+Gelieferte Produkte und Begleitpapiere m�ssen entsprechend den mit dem Kunden getroffenen 
+Vereinbarungen gekennzeichnet sein. Lade- und Verpackungseinheiten (Umverpackungen, 
+Einzelverpackungen) sind separat zu kennzeichnen. Falls vom Kunden gefordert, sind die Beh�lter 
+mit Teilnummer in Klarschrift und Barcode zu etikettieren. 
+3.12.1 Einsatz eines neuen Spezifikationsstatus  
+Werden Produkte nach einem neuen Spezifikationsstatus (z.B. Zeichnungsstand) gefertigt, so d�rfen 
+diese nicht mit Produkten, die nach einem alten Status gefertigt wurden, vermischt werden. Ebenso 
+muss sichergestellt sein, dass Produkte mit altem Status zuerst ausgeliefert werden. Ist eine 
+Auslieferung von bereits gefertigten Produkten nach altem Status nicht mehr gestattet, so sind diese 
+in Absprache mit dem Kunden zu verschrotten. Der Einsatz von Produkten mit neuem Status darf erst 
+nach Freigabe der Muster durch den Kunden erfolgen und muss auf den Lieferpapieren gesondert 
+vermerkt werden. Ebenso m�ssen die Beh�ltnisse und Gebinde entsprechend der Benennung, 
+Stoffbezeichnung und  Zeichnungsnummer mit �nderungsstand gekennzeichnet sein. 
+ 
+Qualit�tssicherungsvereinbarung mit Lieferanten 
+ 
+ 
+ 
+ 
+ 
+S 296001 Seite 9 von 12 Ausgabe: M�rz 2004 
+ 
+3.12.2 Angabe der Chargennummer auf den Lieferscheinen 
+An den Kunden gelieferte chargenpflichtige Lose m�ssen auf den Lieferscheinen und Begleitpapieren 
+die Chargennummer des Lieferanten enthalten. Damit wird erreicht, dass die betroffene 
+Produktionsmenge bei Entdeckung von M�ngeln ermittelt werden kann. 
+3.13 Verpackung 
+Der Lieferant ist f�r den Schutz seiner Produkte durch die Anwendung geeigneter Verpackungen 
+verantwortlich. Dazu ist unter Ber�cksichtigung der produkt- und prozessspezifischen Anforderungen 
+und der "Allgemeinen Verpackungsrichtlinien" eine Verpackungsplanung notwendig, die mit dem 
+Kunden abgestimmt werden muss. Der Lieferant ist f�r ausreichende Menge und Sauberkeit der 
+verwendeten Beh�lter zust�ndig.  
+3.14 Schulung der Mitarbeiter  
+Alle Mitarbeiter m�ssen entsprechend ihres Aufgabengebietes qualifiziert sein.  
+Es ist von gro�er Bedeutung, dass die entsprechenden Mitarbeiter in ausreichendem Ma�e in den 
+Techniken der Qualit�tssicherung und den statistischen Methoden geschult sind. Erst dann lassen 
+sich die wirtschaftlichen Methoden wirksam anwenden und durch fachlich fundierte Analysen die 
+richtigen Ma�nahmen einleiten. Der Lieferant wird deshalb sicherstellen, dass seine Mitarbeiter eine 
+angemessene Schulung erhalten und hier�ber entsprechende Nachweise f�hren. F�r spezielle 
+Prozesse (z.B. Risspr�fung, Schwei�en) d�rfen nur Personen mit vorgeschriebener Qualifikation 
+eingesetzt werden. 
+3.15 Archivierung von Qualit�tsaufzeichnungen 
+Aufzeichnungen �ber Qualit�tsleistungen (z.B. Regelkarten, Pr�fergebnisse) m�ssen vom Lieferanten 
+f�r drei Jahre nach dem Jahr, in dem sie erstellt wurden, sicher aufbewahrt werden. 
+Abweichend hiervon sind relevante Dokumente und Aufzeichnungen �ber Qualit�tsleistungen von 
+dokumentationspflichtigen Produkten 15 Jahre sicher aufzubewahren. Hierunter werden Produkte 
+verstanden, bei denen ein erh�htes Risiko f�r Sach- und Personensch�den vorhanden ist. 
+Dokumentationspflichtige Produkte sind eindeutig in den technischen Unterlagen (Zeichnungen und 
+Vorschriften) gekennzeichnet.  
+Speziell im Bereich Aerospace / Superprecision sind alle Dokumente und Qualit�tsaufzeichnungen 40 
+Jahre aufzubewahren. 
+Der Lieferant verpflichtet sich, die Pr�fergebnisse in geeigneter Form festzuhalten. Dar�ber 
+hinausgehende Aufbewahrungsfristen werden gesondert vereinbart. 
+Vertretern des Kunden ist nach Terminabsprache Einsicht in die Aufzeichnungen und Anweisungen 
+zu gew�hren. 
+3.16 Pr�fmittel 
+Der Lieferant muss so mit Pr�fmitteln ausgestattet sein, dass alle vertragsgem��en 
+Qualit�tsmerkmale gepr�ft werden k�nnen. Die Pr�fmittel sind regelm��ig zu �berwachen und 
+gebrauchsf�hig zu halten. Der Termin der n�chsten �berwachung muss nachvollziehbar sein. 
+Die Pr�fmittelf�higkeit ist nachzuweisen. Die Pr�fmittel m�ssen auf einen internationalen Standard 
+r�ckf�hrbar sein. Bei externer Lenkung muss der Dienstleister entsprechend zertifiziert sein. 
+Falls erforderlich, sind zwischen Lieferant und Kunde Pr�fmittel und Pr�fmethoden aufeinander 
+abzustimmen. 
+3.17 Umwelt, Sicherheit, Recycling 
+Der Kunde hat zum Ziel, negative Auswirkungen der Produkte auf Mensch und Umwelt unter 
+Ber�cksichtigung technisch-wirtschaftlicher Aspekte nach �kologischen Kriterien zu minimieren. Die 
+Einhaltung g�ltiger Gesetze und Verordnungen stellt deshalb eine Mindestanforderung an den 
+Lieferanten dar. 
+ 
+Qualit�tssicherungsvereinbarung mit Lieferanten 
+ 
+ 
+ 
+ 
+ 
+S 296001 Seite 10 von 12 Ausgabe: M�rz 2004 
+ 
+Die verwendeten Materialien und deren Inhaltsstoffe m�ssen den gesetzlichen Bestimmungen bzgl. 
+Umwelt, Sicherheit und Recycling entsprechen, ebenso den vereinbarten Kundennormen. 
+Eine Zertifizierung nach ISO 14001 und/oder EMAS ist w�nschenswert, f�r definierte Branchen 
+zwingend erforderlich (siehe Tabelle im Abschnitt 2.2)  
+ 
+3.18 �berpr�fung der angelieferten Vertragsprodukte 
+Der Lieferant ist f�r die spezifikationsgerechte Anlieferung der Vertragsprodukte verantwortlich.  
+Im Wareneingang des Kunden wird die eingehende Ware grunds�tzlich bez�glich Menge und 
+Identit�t der bestellten Vertragsprodukte sowie Transport- und Verpackungssch�den gepr�ft. Dabei 
+auftretende Beanstandungen werden unverz�glich angezeigt. 
+Im �brigen wird der Kunde die gelieferten Waren nach Gegebenheit eines ordnungsgem��en 
+Gesch�ftsablaufes fertigungsbegleitend �berpr�fen und dabei auftretende M�ngel unverz�glich nach 
+deren Feststellung dem Lieferanten schriftlich anzeigen. Insoweit verzichtet der Lieferant auf den 
+Einwand der versp�teten M�ngelr�ge. 
+3.19 Reklamationsanalyse 
+Beanstandungen werden dem Lieferanten in Form eines Pr�fberichtes bzw. einer M�ngelr�ge 
+angezeigt. Die anschlie�ende Problembearbeitung und Reklamationsanalyse ist nach einem 
+systematischen Verfahren (siehe Teil 4 Reklamationsbearbeitung) durchzuf�hren. 
+Im Normalfall wird dem Lieferanten f�r seine Stellungnahme bez�glich Sofortma�nahmen eine Frist 
+von 48 Stunden (zwei Arbeitstage) einger�umt. Je nach Erfordernis kann es notwendig sein, 
+Sofortma�nahmen innerhalb k�rzester Zeit an den Kunden zu melden. Hierzu ist der Einsatz EDV-
+unterst�tzter Medien zul�ssig. Die eingeschr�nkte Reaktionszeit wird dem Lieferanten im Pr�fbericht 
+bekannt gegeben. 
+Beanstandungen flie�en in die Lieferantenbewertung ein, die f�r den Einkauf des Kunden ein 
+wichtiges Entscheidungskriterium bei der Vergabe von Auftr�gen darstellt.  
+3.20 Liefertreue 
+Der Lieferant ist zur Einhaltung und �berwachung der vereinbarten Mengen und des Termins 
+verpflichtet. Er muss Statistiken �ber erforderliche Zusatzfrachtkosten f�hren und bei Bedarf dem 
+Kunden bereitstellen. Wird vom Lieferanten erkannt, dass die bestellte Liefermenge zum vereinbarten 
+Termin nicht geliefert werden kann, so ist der Kunde sofort zu informieren. 
+3.21 Anzeigen von �nderungen 
+Der Lieferant muss den zust�ndigen Einkauf des Kunden so rechtzeitig wie m�glich und mit dem 
+entsprechenden Antragsformular �ber nachfolgende �nderungen benachrichtigen: 
+ 
+• vor �nderung von Fertigungsverfahren oder Materialien,  
+• vor dem Wechsel von Zulieferanten f�r die Produkte, 
+• vor Verlagerungen von Fertigungsstandorten sowie 
+• vor �nderungen von Verfahren oder Einrichtungen zur Pr�fung der Produkte bzw. von sonstigen 
+Qualit�tssicherungsma�nahmen. 
+ 
+Erst nach Pr�fung der Auswirkung der �nderungen und Freigabe durch die zust�ndige Fachabteilung 
+des Kunden darf der Lieferant die �nderungen einf�hren. Die Benachrichtigungspflicht ist �ber die 
+Bemusterungsvorschriften geregelt.  
+ 
+ 
+ 
+ 
+Qualit�tssicherungsvereinbarung mit Lieferanten 
+ 
+ 
+ 
+ 
+ 
+S 296001 Seite 11 von 12 Ausgabe: M�rz 2004 
+ 
+4 Sonstige Vereinbarungen 
+ 
+Der Kunde kann mit dem Lieferanten weitere individuelle Vereinbarungen treffen, z.B. zu:  
+ 
+• Systemanforderungen 
+• Fertigungs- und Pr�fabl�ufen 
+• Mitzuliefernden Qualit�tsnachweisen 
+• Anlieferqualit�t (ppm-Vereinbarungen) 
+• Sonstigen Schnittstellenregelungen, wie z.B. Lagerhaltung und Bevorratung 
+ 
+Diese Vereinbarungen werden im Sinne von Punkt 3.1 durch beiderseitige Unterzeichnung der 
+Verbindlichkeitserkl�rung (Punkt 7) bindend. 
+�nderungen dieser Vereinbarungen m�ssen in beiderseitigem Einvernehmen schriftlich 
+vorgenommen werden, bevor Produkte / Leistungen nach diesen ge�nderten Vereinbarungen 
+hergestellt und ausgeliefert werden (siehe Teil 6 Sondervereinbarung). 
+Ist der Lieferant nicht Hersteller des gelieferten Produktes, sondern Wiederverk�ufer, so tr�gt der 
+Lieferant daf�r Sorge, dass der Hersteller des Produktes diese Qualit�tssicherungsvereinbarung 
+einh�lt, soweit er diese nicht selbst einhalten kann.  
+5 Literatur und Referenzen 
+ 
+Bezugsquellen von Normen und Schrifttum sowie Schulungsseminare sind national unterschiedlich 
+und k�nnen bei Bedarf beim Kunden erfragt werden. 
+6 Mitgeltende Teile der Qualit�tssicherungsvereinbarung 
+ 
+Teil 1  Qualit�tsvorausplanung 
+Teil 2  Serienteil-Freigabeverfahren 
+Teil 3  �nderungsgenehmigung / Sonderfreigabe 
+Teil 4  Reklamationsbearbeitung 
+Teil 5  Lieferantenbewertung 
+Teil 6  Sondervereinbarung 
+Teil 7 bis 9 Nicht vergeben 
+ab Teil 10  > Kundenspezifische Anforderungen innerhalb der Schaeffler Gruppe < 
+ 
+Mitgeltende und zitierte Normen und Dokumente 
+ 
+ISO 9001:2000 
+ISO/TS 16949 
+ISO 14001 
+DIN EN 10204 
+DIN 55350-18 
+QS 9000 
+VDA 6.1 / AVSQ 94 / EAQF 94 
+AS 9100 
+ 
+Qualit�tssicherungsvereinbarung mit Lieferanten 
+ 
+ 
+ 
+ 
+ 
+S 296001 Seite 12 von 12 Ausgabe: M�rz 2004 
+ 
+7 Verbindlichkeitserkl�rung 
+ 
+Diese Qualit�tssicherungsvereinbarung (QSV) wird mit dem Tag des Unterzeichnens durch den 
+Kunden und den Lieferanten wirksam und ist somit Bestandteil aller Liefervertr�ge, die zwischen 
+beiden Parteien geschlossen werden, selbst wenn der Lieferant im Rahmen der Allgemeinen 
+Gesch�ftsbedingungen auf abweichende Qualit�tsvorschriften verwiesen wird.  
+Sie kann unter Einhaltung einer Frist von drei Monaten von beiden Parteien gek�ndigt werden. Jede 
+K�ndigung hat schriftlich zu erfolgen. Auf bereits abgeschlossene Liefervertr�ge ist die 
+Qualit�tssicherungsvereinbarung unabh�ngig von einer K�ndigung weiterhin g�ltig.  
+Diese Qualit�tssicherungsvereinbarung unterliegt deutschem Recht.  
+ 
+Einstufung durch den Kunden: 
+ 
+ Lieferantenklasse  
+ Lieferant nach St�ckliste mit eigenverantw. Produktentwicklung (Produkte nach St�ckliste, inkl. chem. Betriebsstoffe, die im/am Produkt verbleiben)  
+ Lieferant mit Prozessentwicklung (Konstruktion beim Kunden)  
+ Lieferant f�r Katalog und Normteile (keine Entwicklung f�r den Kunden, inkl. Fett, �l, Konserv., usw.)  
+ Lohnarbeiter (Verl�ngerte Werkbank)  
+ Lieferant f�r Werkstoffe (Rohmaterial, Halbzeuge)  
+ Lieferant f�r Verpackungen  
+ Lieferant f�r Werkzeuge  
+ Lieferant f�r Hilfsstoffe (Hilfsstoffe verbleiben nicht im/am Produkt z.B. K�hlschmierstoff, Strahlmittel usw.)  
+ 
+Anschrift des Lieferanten 
+ Name       
+ Stra�e, Nr. / Postfach       
+ PLZ / Ort       
+ Land       
+ UPIK- / DUNS-Nummer       (gilt allgemein als Referenznummer der QSV) 
+ 
+Sondervereinbarung gem�� QSV Teil 6 getroffen?  ja  nein 
+ 
+ 
+Lieferant             
+ Datum  Name  Unterschrift Gesch�ftsf�hrer 
+ 
+ 
+             
+ Datum  Name  Unterschrift QM 
+ 
+ 
+ 
+Kunde             
+ Datum  Name, Abteilung  Unterschrift Qualit�tssicherung 
+ 
+ 
+             
+ Datum  Name, Abteilung  Unterschrift Einkauf 
+ 

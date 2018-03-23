@@ -1,0 +1,104 @@
+Professor Anthony W. Knapp
+P O Box 333
+East Setauk et, NY 11733
+Dear editor,
+I am please d to see so much serious attention being given to improvements in the way calculus has
+traditionally been taught, but I’m surprised that nobody has been discussing the kinds of changes
+that I personal ly believe would be most valuable. If I were responsible for teaching calculus to
+college undergr aduates and advanced high school students today, and if I had the opportunity to
+deviat e from the existing textb ooks, I would certain ly make major changes by emphasizing several
+notational improvements that advanced mathematicians have been using for more than a hundred
+years.
+The most important of these changes would be to introduce the O notation and related ideas at an
+early stage. This notati on, first used by Bachmann in 1894 and later popularized by Landau, has
+the great virtue that it makes calculations simpler, so it simplifies many parts of the subject, yet
+it is highly intuitive and easily learned. The key idea is to be able to deal with quantities that are
+only partly specified, and to use them in the midst of formulas.
+I would begin my ideal calculus course by introducing a simpler “A notation,” which means “abso-
+lutely at most.” For exampl e, A(2) stands for a quantity whose absolute value is less than or equal
+to 2. This notati on has a natural connection with decimal numbers: Saying that pi is approximately
+3.14 is equivalent to saying that pi = 3.14 + A(.005). Students will easily discover how to calculate
+with A:
+10A(2) = A(100) ;parenleftbig
+3.14 + A(.005)parenrightbigparenleftbig1 + A(0.01)parenrightbig
+= 3.14 + A(.005) + A(0.0314) + A(.00005)
+= 3.14 + A(0.3645) = 3.14 + A(.04) .
+I would of course explain that the equality sign is not symm etric with respect to such notation s;
+we have 3 = A(5) and 4 = A(5) but not 3 = 4, nor can we say that A(5) = 4. We can, however,
+say that A(0) = 0. As de Bruijn points out in [1, §1.2], mathematic ians customaril y use the = sign
+as they use the word “is” in English: Aristotle is a man, but a man isn’t necessarily Aristotle.
+The A notation applies to variable quantities as well as to constant ones. For exampl e,
+sin x = A(1) ;
+x = A(x);
+A(x) = xA(1) ;
+A(x) + A(y) = A(x + y) if x ≥ 0 and y ≥ 0;parenleftbig
+1 + A(t)parenrightbig2 = 1 + 3A(t) if t = A(1) .
+Once students have caught on to the idea of A notation, they are ready for O notation, which is even
+less specific. In its simplest form, O(x) stands for somethin g that is CA(x) for some constan t C,
+but we don’t say what C is. We also define side conditions on the variables that appear in the
+formulas. For example, if n is a positive integer we can say that any quadratic polynomial in n is
+1
+O(n2). If n is sufficien tly large, we can deduce that
+parenleftbign + O(√n )parenrightbigparenleftbigln n + γ + O(1/n)parenrightbig
+= n ln n + γn + O(1)
++ O(√n ln n) + O(√n ) + O(1/√n )
+= n ln n + γn + O(√n ln n).
+I would define the derivative by first defining what might be called a “stron g derivative”: The
+function f has a strong derivative fprime(x) at point x if
+f(x + epsilon1) = f(x) + fprime(x)epsilon1 + O(epsilon12)
+whenev er epsilon1 is sufficiently small. The vast majority of all function s that arise in practical work have
+strong derivatives, so I believe this definition best captures the intuition I want students to have
+about derivatives. We see immediately, for example, that if f(x) = x2 we have
+(x + epsilon1)2 = x2 + 2xepsilon1 + epsilon12 ,
+so the derivative of x2 is 2x. And if the derivative of xn is dn(x), we have
+(x + epsilon1)n+1 = (x + epsilon1)parenleftbigxn + dn(x)epsilon1 + O(epsilon12)parenrightbig
+= xn+1 + parenleftbigxdn(x) + xnparenrightbigepsilon1 + O(epsilon12);
+hence the derivative of xn+1 is xdn(x)+xn and we find by induction that dn(x) = nxn−1. Similarly
+if f and g have strong derivatives fprime(x) and gprime(x), we readily find
+f(x + epsilon1)g(x + epsilon1) = f(x)g(x) + parenleftbigfprime(x)g(x) + f(x)gprime(x)parenrightbigepsilon1 + O(epsilon12)
+and this gives the strong derivative of the product. The chain rule
+fparenleftbigg(x + epsilon1)parenrightbig = fparenleftbigg(x)parenrightbig + fprimeparenleftbigg(x)parenrightbiggprime(x)epsilon1 + O(epsilon12)
+also follows when f has a strong derivative at point g(x) and g has a strong derivative at x.
+Once it is known that integrat ion is the inverse of differen tiation and related to the area under a
+curve, we can observe, for exampl e, that if f and fprime both have strong derivatives at x, then
+f(x + epsilon1) − f(x) =
+integraldisplay epsilon1
+0
+fprime(x + t)dt
+=
+integraldisplay epsilon1
+0
+parenleftbigfprime(x) + fprimeprime(x)t + O(t2)parenrightbig dt
+= fprime(x)epsilon1 + fprimeprime(x)epsilon12/2 + O(epsilon13).
+I’m sure it would be a pleasure for both students and teacher if calculus were taught in this way.
+The extra time needed to introduce O notation is amply repaid by the simpli fications that occur
+later. In fact, there probably will be time to introduce the “o notation, ” which is equivalent to the
+taking of limits, and to give the general definition of a not-necessarily-strong derivative:
+f(x + epsilon1) = f(x) + fprime(x)epsilon1 + o(epsilon1).
+2
+The function f is continuous at x if
+f(x + epsilon1) = f(x) + o(1) ;
+and so on. But I would not mind leaving a full exploration of such things to a more advanced
+course , when it will easily be picked up by anyone who has learned the basics with O alone. Indeed,
+I have not needed to use “o” in 2200 pages of The Art of Compu ter Programm ing, although many
+techniques of advanced calculus are applied throughout those books to a great variety of problems .
+Students will be motivated to use O notation for two important reasons. First, it significantly
+simplifies calculations because it allows us to be sloppy—but in a satisfactorily controlled way.
+Second , it appears in the power series calculations of symbolic algebra systems like Maple and
+Mathematica, which today’s students will surely be using.
+For more than 20 years I have dreamed of writing a calculus text entitled O Calculus, in which
+the subject would be taught along the lines sketched above. More pressing projects, such as the
+developmen t of the TEX system , have made that impossible, although I did try to write a good
+introduction to O notation for post-calculus students in [2, Chapt er 9]. Perhaps my ideas are
+preposterous, but I’m hoping that this letter will catch the attention of people who are much more
+capabl e than I of writing calculus texts for the new millennium. And I hope that some of these
+now-classical ideas will prove to be at least half as fruitful for students of the next generation as
+they have been for me.
+Sincerely,
+Donald E. Knuth
+Professor
+DEK/pw
+[1] N. G. de Bruijn, Asymptotic Metho ds in Analy sis (Amsterdam: North-Holl and, 1958).
+[2] R. L. Graham, D. E. Knuth, and O. Patashnik, Concrete Mathematics (Readin g, Mass.: Ad-
+dison–Wesley, 1989).
+3
