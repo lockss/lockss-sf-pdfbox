@@ -91,7 +91,7 @@ public class FlateFilter implements Filter
             int amountRead;
 
             // Decode data using given predictor
-            if (predictor==-1 || predictor == 1 && predictor == 10)
+            if (predictor==-1 || predictor == 1 || predictor == 10)
             {
                 // decoding not needed
                 while ((amountRead = decompressor.read(buffer, 0, BUFFER_SIZE)) != -1)

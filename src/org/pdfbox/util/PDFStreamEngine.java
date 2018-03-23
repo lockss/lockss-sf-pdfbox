@@ -44,6 +44,7 @@ import org.pdfbox.cos.COSObject;
 import org.pdfbox.cos.COSStream;
 import org.pdfbox.exceptions.WrappedIOException;
 
+import org.pdfbox.pdfparser.PDFStreamParser;
 import org.pdfbox.pdmodel.PDPage;
 import org.pdfbox.pdmodel.PDResources;
 
@@ -110,7 +111,7 @@ public class PDFStreamEngine
      * 
      * @throws IOException If there is an error setting the engine properties.
      */
-    public PDFStreamEngine( Properties properties ) throws IOException
+    public PDFStreamEngine( OperatorProcessorFactory factory, Properties properties ) throws IOException
     {
         try
         {
@@ -119,16 +120,29 @@ public class PDFStreamEngine
             {
                 String operator = (String)keys.next();
                 String operatorClass = properties.getProperty( operator );
-                OperatorProcessor op = (OperatorProcessor)Class.forName( operatorClass ).newInstance();
+                OperatorProcessor op = factory.newInstanceForName(operatorClass);
                 registerOperatorProcessor(operator, op);
             }
         }
         catch( Exception e )
         {
-            throw new WrappedIOException( e );
+            IOException ioe = new IOException(); ioe.initCause(e); throw ioe;
         }
     }
     
+    public interface OperatorProcessorFactory {
+      OperatorProcessor newInstanceForName(String className) throws LinkageError, ExceptionInInitializerError, ClassNotFoundException, IllegalAccessException, InstantiationException, SecurityException;
+    }
+
+    public PDFStreamEngine( Properties properties ) throws IOException {
+      this(new OperatorProcessorFactory() {
+             public OperatorProcessor newInstanceForName(String className) throws LinkageError, ExceptionInInitializerError, ClassNotFoundException, IllegalAccessException, InstantiationException, SecurityException {
+               return (OperatorProcessor)Class.forName(className).newInstance();
+             }
+           },
+           properties);
+    }
+
     /**
      * Register a custom operator processor with the engine.
      * 
@@ -186,6 +200,7 @@ public class PDFStreamEngine
     public void processSubStream( PDPage aPage, PDResources resources, COSStream cosStream ) throws IOException
     {
         page = aPage;
+        PDFStreamParser parser = null;
         if( resources != null )
         {
             StreamResources sr = new StreamResources();
@@ -199,31 +214,33 @@ public class PDFStreamEngine
         try
         {
             List arguments = new ArrayList();
-            List tokens = cosStream.getStreamTokens();
-            if( tokens != null )
+
+            parser = new PDFStreamParser( cosStream );
+            Iterator<Object> iter = parser.getTokenIterator();
+
+            while( iter.hasNext() )
             {
-                Iterator iter = tokens.iterator();
-                while( iter.hasNext() )
+                Object next = iter.next();
+                if( next instanceof COSObject )
                 {
-                    Object next = iter.next();
-                    if( next instanceof COSObject )
-                    {
-                        arguments.add( ((COSObject)next).getObject() );
-                    }
-                    else if( next instanceof PDFOperator )
-                    {
-                        processOperator( (PDFOperator)next, arguments );
-                        arguments = new ArrayList();
-                    }
-                    else
-                    {
-                        arguments.add( next );
-                    }
+                    arguments.add( ((COSObject)next).getObject() );
+                }
+                else if( next instanceof PDFOperator )
+                {
+                    processOperator( (PDFOperator)next, arguments );
+                    arguments.clear();
+                }
+                else
+                {
+                    arguments.add( next );
                 }
             }
         }
         finally
         {
+            if (parser != null) {
+                parser.close();
+            }
             if( resources != null )
             {
                 streamResourcesStack.pop();
