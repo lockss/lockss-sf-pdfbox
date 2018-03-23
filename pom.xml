@@ -43,7 +43,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   
   <groupId>org.lockss</groupId>
   <artifactId>pdfbox</artifactId>
-  <version>0.7.3-p1-SNAPSHOT</version>
+  <version>0.7.3-p2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>org.lockss:pdfbox</name>
